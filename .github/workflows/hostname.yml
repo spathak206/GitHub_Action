@@ -9,5 +9,5 @@ jobs:
     - name: Check out code
       uses: actions/checkout@v2
 
-    - name: Run hostname command
+    - name: Run hostname comman
       run: hostname
